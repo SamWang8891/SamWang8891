@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 🤖
 
-<!--
-**SamWang8891/SamWang8891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at NTUST (National Taiwan University of Science and Technology). 
 
-Here are some ideas to get you started:
+Currently, I am working on improving my programming skills by creating projects during my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My stats
+
+**I code:** C/C++, Python, Javascript, Shell
+
+**Just a little bit:** PHP
+
+**Still improving:** C/C++, Python, Javascript
+
+![GitHub Prefer Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamWang8891&layout=compact&theme=react&border_radius=10&custom_title=My%20Preferred%20Languages)
+
+
+---
+
+### Languages I speak/write
+
+- Mainarin
+- Taiwanese
+- English
+
+---
+
+### My blog
+
+[SamWang's Blog](https://blog.smashit.tw)
+
+
+The blog is mostly in Mandarin, and I use it to jot down some tech stuff that I might forget later. I also write about the things that catch my interest.
+
+---
+
+### Reach me?
+
+📫: chingkai.wang.tw@gmail.com
+
+Discord: [SamWang8891](https://discordapp.com/users/519528961491992582)
