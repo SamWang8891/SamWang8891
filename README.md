@@ -32,7 +32,7 @@ Currently, I am working on improving my programming skills by creating projects 
 [SamWang's Blog](https://blog.smashit.tw)
 
 
-The blog is mostly in Mandarin. I use it to jot down some tech stuff that I might forget later and things that catch my interest.
+The blog is mostly in Mandarin. I use it to write some tech stuff that I might forget later and things that catch my interest.
 
 ---
 
