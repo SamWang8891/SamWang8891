@@ -2,7 +2,7 @@
 
 I am a Computer Science student at NTUST (National Taiwan University of Science and Technology). 
 
-Currently, I am working on improving my programming skills by creating projects during my spare time.
+Currently, I am working on improving my programming skills by doing some projects during my spare time.
 
 ---
 
