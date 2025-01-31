@@ -36,7 +36,7 @@ The blog is mostly in Mandarin. I use it to write some tech stuff that I might f
 
 ---
 
-### Reach me?
+### Contact me?
 
 📫: chingkai.wang.tw@gmail.com
 
