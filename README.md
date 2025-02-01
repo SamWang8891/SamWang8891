@@ -4,6 +4,13 @@ I am a Computer Science student at NTUST (National Taiwan University of Science 
 
 Currently, I am working on improving my programming skills by doing some projects during my spare time.
 
+Ongoing projects:
+- **NEW**✨ ttjelly-formatter: A semiauto-filename-formatter for naming anime video files with IMDb ID.
+- **NEW**✨ ups-stats: A pretty webUI to monitor UPS status by connecting UPS with NUT.
+- **MOD**🛠️ [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI): Make this shitty UI prettier.
+
+Anyone here to fix my Calculus I/II and my Linear Algebra????
+
 ---
 
 ### My stats
