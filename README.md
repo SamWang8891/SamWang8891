@@ -44,6 +44,6 @@ The blog is mostly in Mandarin. I use it to write some tech stuff that I might f
 
 ### Contact me?
 
-📫: chingkai.wang.tw@gmail.com
+📫: chingkai.wang@smashit.tw
 
 Discord: [SamWang8891](https://discordapp.com/users/519528961491992582)
