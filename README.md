@@ -27,7 +27,7 @@ Anyone here to fix my Calculus I/II and my Linear Algebra????
 
 ### Languages I speak/write
 
-- Mainarin
+- Maindarin
 - Taiwanese
 - English
 
