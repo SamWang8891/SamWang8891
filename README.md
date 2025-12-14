@@ -9,7 +9,7 @@ Ongoing projects:
 - **MOD**🛠️ [simple-url-shortener](https://github.com/SamWang8891/simple-url-shortener): Make it able to customize the shortened word.
 - **MOD**🛠️ [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI): Make this shitty UI prettier.
 
-Semi-Abandomed projects:
+Semi-abandomed projects:
 - **NEW**✨ ttjelly-formatter: A semiauto-filename-formatter for naming anime video files with IMDb ID.
 
 ---
