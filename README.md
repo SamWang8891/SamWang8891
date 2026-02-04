@@ -48,7 +48,8 @@
 
 - Docker & containerization
 - System design patterns
-- *(add whatever you're actually learning)*
+- React & NextJS
+- Japanese
 
 <br>
 
