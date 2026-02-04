@@ -1,48 +1,76 @@
-## Hi there 🤖
+<div align="center">
 
-I am a Computer Science student at NTUST (National Taiwan University of Science and Technology). 
+# 👋 Hey there!
 
-Currently, I am working on improving my programming skills by doing some projects during my spare time.
 
-Ongoing projects:
-- **MOD**🛠️ [pika](https://github.com/SamWang8891/pika): Let user able to set expire time for the shortened URL.
-- **MOD**🛠️ [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI): Make this shitty UI prettier.
+### I'm Sam — CS Student @ NTUST
 
-Semi-abandomed projects:
-- **NEW**✨ batch-get-imdbid: A program that fetches all imdbid of the episodes under a title, helps renaming files for video services like Jellyfin.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+cool+stuff+in+spare+time;C%2FC%2B%2B+%7C+Python+%7C+JS+enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+## 🚀 What I'm Working On
+| Status | Project | Description |
+|:------:|---------|-------------|
+| 🛠️ | [pika](https://github.com/SamWang8891/pika) | Adding expiry times to shortened URLs |
+| 🛠️ | [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI) | Making the UI less... painful |
+| 💤 | batch-get-imdbid | Bulk fetch IMDb IDs for Jellyfin renaming |
+
+<br>
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,php,bash,linux&theme=dark)](https://skillicons.dev)
+
+<details>
+<summary>📊 More Stats</summary>
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamWang8891&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamWang8891&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamWang8891&theme=github_dark" />
+</p>
+
+</details>
+
+<br>
+
+## 🌏 Languages I Speak
+`Mandarin` · `Taiwanese` · `English`
+
+<br>
+
+## 🎯 Currently Learning
+
+- Docker & containerization
+- System design patterns
+- *(add whatever you're actually learning)*
+
+<br>
+
+## 📝 Blog & Contact
+
+<a href="https://blog.smashit.tw"><img src="https://img.shields.io/badge/Blog-smashit.tw-blue?style=for-the-badge&logo=ghost" /></a>
+<a href="mailto:chingkai.wang@smashit.tw"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://discordapp.com/users/519528961491992582"><img src="https://img.shields.io/badge/Discord-SamWang8891-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br>
 
 ---
 
-### My stats
+<div align="center">
 
-**I code:** C/C++, C#, Python, Javascript, Shell
+![](https://komarev.com/ghpvc/?username=SamWang8891&color=blue&style=flat-square)
 
-**Just a little bit:** PHP
+<br>
 
-![GitHub Prefer Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamWang8891&layout=compact&theme=react&border_radius=10&custom_title=My%20Preferred%20Languages)
+> 🎵 *Darkness will fade away, Light will guide your way*  
+> *Hope has descended and you are not alone*  
+>
+> — **IRyS** · [Caesura of Despair](https://www.youtube.com/watch?v=vBNI979XyoE)
 
-
----
-
-### Languages I speak/write
-
-- Maindarin
-- Taiwanese
-- English
-
----
-
-### My blog
-
-[SamWang's Blog](https://blog.smashit.tw)
-
-
-The blog is mostly in Mandarin. I use it to write some tech stuff that I might forget later and things that catch my interest.
-
----
-
-### Contact me?
-
-📫: chingkai.wang@smashit.tw
-
-Discord: [SamWang8891](https://discordapp.com/users/519528961491992582)
+</div>
