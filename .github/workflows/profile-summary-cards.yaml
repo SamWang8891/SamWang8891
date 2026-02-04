@@ -19,3 +19,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           COMMIT: true
+          UTC_OFFSET: 8
