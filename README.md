@@ -28,11 +28,17 @@
 <summary>📊 More Stats</summary>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamWang8891&theme=github_dark)
+<p align="center">
+  <img src="./profile-summary-card-output/zenburn/0-profile-details.svg" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamWang8891&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamWang8891&theme=github_dark" />
+  <img src="./profile-summary-card-output/zenburn/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/zenburn/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/zenburn/4-productive-time.svg" />
 </p>
 
 </details>
