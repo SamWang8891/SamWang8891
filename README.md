@@ -5,12 +5,11 @@ I am a Computer Science student at NTUST (National Taiwan University of Science 
 Currently, I am working on improving my programming skills by doing some projects during my spare time.
 
 Ongoing projects:
-- **NEW**✨ pegeon: A file/text sharing platform.
-- **MOD**🛠️ [simple-url-shortener](https://github.com/SamWang8891/simple-url-shortener): Make it able to customize the shortened word.
+- **MOD**🛠️ [pika](https://github.com/SamWang8891/pika): Let user able to set expire time for the shortened URL.
 - **MOD**🛠️ [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI): Make this shitty UI prettier.
 
 Semi-abandomed projects:
-- **NEW**✨ ttjelly-formatter: A semiauto-filename-formatter for naming anime video files with IMDb ID.
+- **NEW**✨ batch-get-imdbid: A program that fetches all imdbid of the episodes under a title, helps renaming files for video services like Jellyfin.
 
 ---
 
