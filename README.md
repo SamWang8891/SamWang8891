@@ -52,8 +52,6 @@
 
 ## 🎯 Currently Learning
 
-- Docker & containerization
-- System design patterns
 - React & NextJS
 - Japanese
 
