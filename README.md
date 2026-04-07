@@ -14,9 +14,8 @@
 ## 🚀 What I'm Working On
 | Status | Project | Description |
 |:------:|---------|-------------|
-| 🛠️ | [pika](https://github.com/SamWang8891/pika) | Adding expiry times to shortened URLs |
-| 🛠️ | [cloudflare-ddns-gui](https://github.com/SamWang8891/cloudflare-ddns-webGUI) | Making the UI less... painful |
-| 💤 | batch-get-imdbid | Bulk fetch IMDb IDs for Jellyfin renaming |
+| 🛠️ | [tigerduck-app](https://github.com/tigerduck-app/tigerduck-app) | A convienet app for students in NTUST, on Apple devices. |
+| 🛠️ | [tigerduck-app-android](https://github.com/tigerduck-app/tigerduck-app-android) | Android version of tigherduck-app. |
 
 <br>
 
