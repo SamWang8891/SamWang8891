@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,php,bash,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,golang,php,bash,linux&theme=dark)](https://skillicons.dev)
 
 <details>
 <summary>📊 More Stats</summary>
@@ -51,7 +51,7 @@
 
 ## 🎯 Currently Learning
 
-- React & NextJS
+- GoLang
 - Japanese
 
 <br>
